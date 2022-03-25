@@ -1,0 +1,21 @@
+/* Created by: Evgeny Vovk
+* Created on: Mar 2022
+* This CSS file defines the style for index.html ICS2O-Unit2-02-HTML
+*/
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+p {
+  color: hotpink;
+  font-size: 150%;
+}
+
+.mainContent {
+  font-family: serif;
+}
