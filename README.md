@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Evgeny-Vovk/ICS2O-Unit2-02-HTML)](https://repl.it/github/Evgeny-Vovk/ICS2O-Unit2-02-HTML)
 
-This site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit2-02-HTML](https://Evgeny-Vovk.github.io/<REPOSITORY>)
+This site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit2-02-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit2-02-HTML)
